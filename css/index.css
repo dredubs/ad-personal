@@ -86,7 +86,7 @@ body {
   display: flex;
   flex-direction: column;
   padding: 0 var(--padding-container);
-  background-color: #fdd4bd;
+  color: #fdd4bd;
 }
 
 h1,
